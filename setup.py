@@ -13,5 +13,5 @@ setup(name='do_you_need_a_lawyer',
       test_suite='tests',
       # include_package_data: to install data from MANIFEST.in
       include_package_data=True,
-      scripts=['scripts/lib'],
+      scripts=['scripts/do_you_need_a_lawyer-run'],
       zip_safe=False)
